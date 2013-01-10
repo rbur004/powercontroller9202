@@ -1,6 +1,8 @@
 = powercontroller9202
 
-* https://github.com/rbur004/powercontroller9202
+* http://rbur004.github.com/powercontroller9202/
+* Source https://github.com/rbur004/powercontroller9202
+* Gem https://rubygems.org/gems/powercontroller9202
 
 == DESCRIPTION:
 

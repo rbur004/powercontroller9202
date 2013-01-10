@@ -1,4 +1,5 @@
 *.o
+doc/
 pkg/
 Private/
 test_data/*.out
