@@ -3,7 +3,7 @@
 #/usr/local/bin/rake --trace check_manifest 
 
 #Local checking. Creates pkg/
-/usr/local/bin/rake gem
+#/usr/local/bin/rake gem
 
 #create doc/
 /usr/local/bin/rake --trace docs  
